@@ -108,10 +108,6 @@ function App() {
             </button>
           </form>
         </div>
-        <p className="read-the-docs">
-          This demo sends email/password to <code>https://api.example-login.com/v1/auth/login</code>.
-          Replace with your real backend and response handling.
-        </p>
       </>
     )
   }
